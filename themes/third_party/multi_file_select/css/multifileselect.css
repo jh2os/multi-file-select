@@ -1,0 +1,7 @@
+.addrowmulti, .removerow, .removerow button {
+	cursor:pointer;
+}
+
+.multifileselectform table, .multifileselectform th, .multifileselectform td {
+	border: 1px solid gray;
+}
